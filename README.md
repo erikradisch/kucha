@@ -1,3 +1,3 @@
 # Kucha Information System
 
-## Setting up IDE
+For information, how to set up the Kucha Information System, contact radisch@saw-leipzig.de.
